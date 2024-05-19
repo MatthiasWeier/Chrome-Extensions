@@ -34,7 +34,7 @@ Will be added soon!
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/MatthiasWeier/Chrome-Extensions/edit/main/Paywall-Reader/README.md
+   git clone https://github.com/MatthiasWeier/Chrome-Extensions/tree/main/Paywall-Reader
 2. Add the folder to Extensions 
 - chrome://extensions/ 
 - opera://extensions
