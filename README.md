@@ -29,7 +29,7 @@ We welcome contributions! Please follow these steps to contribute:
 For any inquiries, you can reach me via GitHub:
 
 - Open an issue on this repository.
-- Send a message through my GitHub profile: [Your GitHub Username](https://github.com/YourGitHubUsername).
+- Send a message through my GitHub profile: [MatthiasWeier](https://github.com/MatthiasWeier).
 
 ---
 
