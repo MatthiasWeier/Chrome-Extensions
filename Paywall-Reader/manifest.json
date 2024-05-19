@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "PayWall Bypass Extension",
+  "version": "1.0",
+  "description": "Redirects the current tab to a paywall-free version of the page.",
+  "permissions": ["activeTab", "tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
