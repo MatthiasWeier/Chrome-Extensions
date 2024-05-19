@@ -35,7 +35,7 @@ Will be added soon!
 1. **Clone the repository:**
    ```sh
    git clone git clone https://github.com/MatthiasWeier/Chrome-Extensions.git
-2. Add the folder to Extensions 
+2. Add the folder to Extensions --> allow developer mode --> Load unpacked extensions --> add Folder
 - chrome://extensions/ 
 - opera://extensions
 - or any other browser
