@@ -1,23 +1,33 @@
 body {
-    font-family: Arial, sans-serif;
-    padding: 10px;
-  }
-  
-  h1 {
-    color: red;
-  }
-  
-  button {
-    display: block;
-    margin: 10px 0;
-    padding: 10px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  button:hover {
-    background-color: #0056b3;
-  } 
+  font-family: Arial, sans-serif;
+  padding: 10px;
+}
+
+h1, #manual-message {
+  color: rgb(97, 135, 167);
+  font-size: 18px; 
+}
+
+button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#paywallreader-link {
+  background-color: red;
+}
+
+#paywallreader-link:hover {
+  background-color: lightgray;
+}
+

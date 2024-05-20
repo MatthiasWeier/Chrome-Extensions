@@ -33,5 +33,18 @@ document.addEventListener('DOMContentLoaded', () => {
     } else {
       console.error('Button with ID "bypass-paywall" not found');
     }
-  });
+
+    // Add event listener for the PaywallReader button
+    const paywallReaderButton = document.getElementById('paywallreader-link');
+    if (paywallReaderButton) {
+      paywallReaderButton.addEventListener('click', openPaywallReader);
+    } else {
+      console.error('Button with ID "paywallreader-link" not found');
+    }
+});
+
+function openPaywallReader() {
+  chrome.tabs.create({ url: 'https://paywallreader.com' });
+}
+
   
