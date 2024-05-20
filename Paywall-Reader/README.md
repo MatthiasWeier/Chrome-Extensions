@@ -24,12 +24,6 @@ I have tested this with a few websites. This code is everything but perfect; it 
 - Make it more pretty :)
 - Feel free to make changes!
 
-## Installation
-
-### From the Chrome Web Store
-Will be added soon!
-<!-- You can install the extension directly from the Chrome Web Store: [PayWall Bypass Extension](https://chrome.google.com/webstore/detail/paywall-bypass-extension/YOUR_EXTENSION_ID) -->
-
 ### Manual Installation via GitHub
 
 1. **Clone the repository:**
