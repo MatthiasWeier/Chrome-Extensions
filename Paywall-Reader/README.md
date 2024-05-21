@@ -28,7 +28,7 @@ I have tested this with a few websites. This code is everything but perfect; it 
 
 1. **Clone the repository:**
    ```sh
-   git clone git clone https://github.com/MatthiasWeier/Chrome-Extensions.git
+   git clone https://github.com/MatthiasWeier/Chrome-Extensions.git
 2. Add the folder to Extensions --> allow developer mode --> Load unpacked extensions --> add Folder
 - chrome://extensions/ 
 - opera://extensions
