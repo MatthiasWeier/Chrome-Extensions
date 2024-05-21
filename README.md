@@ -1,6 +1,7 @@
 # Chrome Extensions Repository
 
-Welcome to the Chrome Extensions Repository! This repository hosts various Chrome extensions developed for enhancing browser functionality.
+Welcome to the Chrome Extensions Repository! This repository hosts various Chrome extensions developed for enhancing browser functionality. <br>
+I am trying to put most of the Extensions on Chrome Web Store. My Paywall-Reader didn't got accepted.
 
 ## Extensions
 
@@ -8,11 +9,14 @@ Welcome to the Chrome Extensions Repository! This repository hosts various Chrom
 
 Paywall-Reader is a Chrome extension designed to help users bypass paywalls on various websites. It provides a seamless reading experience by removing restrictions imposed by paywalls.
 
-#### Installation
-1. Clone the repository or download the zip file.
-2. Open Chrome and navigate to `chrome://extensions/`.
-3. Enable "Developer mode" by clicking the toggle switch in the top right corner.
-4. Click the "Load unpacked" button and select the extension directory.
+## Manual Installation via GitHub
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/MatthiasWeier/Chrome-Extensions.git
+2. Add the folder to Extensions --> allow developer mode --> Load unpacked extensions --> add Folder
+- chrome://extensions/ 
+- opera://extensions
+- or any other browser
 
 ## Contributing
 
@@ -30,6 +34,7 @@ For any inquiries, you can reach me via GitHub:
 
 - Open an issue on this repository.
 - Send a message through my GitHub profile: [MatthiasWeier](https://github.com/MatthiasWeier).
+- I'm open for extension ideas!
 
 ---
 
